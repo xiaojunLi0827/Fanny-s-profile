@@ -1,0 +1,102 @@
+<head>
+  <link rel="index.html" href="style.css">
+</head>
+selector {         
+  property: value; 
+	property: value; 
+	property: value; 
+
+}
+body {
+  color: black;     
+	background-color: rgb(230,230,230); 
+}
+body {
+  font-size: 20px;
+	line-height: 1.8;
+	letter-spacing: 1px;
+}
+body {
+  color: rgb(30, 30, 30);
+	text-align: justify;
+	text-decoration: none;
+}
+
+body {
+  font-weight: 300;
+	font-weight: 400;
+	font-weight: 500;
+	font-weight: 600;
+}
+
+h1 {
+  color: green;
+	font-size: 40px;
+	font-family: Helvetica;
+	letter-spacing: 5px;
+
+}
+h2 {
+  color: black;
+	font-size: 40px;
+	font-family: Helvetica;
+}
+
+div{
+  background: pink;
+  border:2px solid black;
+  margin:10 px;
+
+}
+
+/*Custom design with class*/ 
+.container {
+	width: 700px; 
+	margin: 40px auto;
+}
+
+.card-white{
+	background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px  rgba(0,0,0,0,1);
+  border-radius: 4px；
+  margin:20px 0px;
+  text-align: center;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.btn-blue{
+	background-color: black;
+	color: white;
+	padding: 15px 20px;
+
+}
+.btn-blue:hover{
+	background-color:#f3a953;
+	color:white;
+}
+
+.list-inline{
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px
+}
+.list-inline i {
+	font-size: 50px;
+	color:purple;
+}
+.list-inline i:hover {
+	font-size: 50px;
+	color:black;
+}
+
+#introduction p {
+	margin-bottom: 40px; 
+}
